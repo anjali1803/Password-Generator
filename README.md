@@ -22,7 +22,7 @@
 
 ## ✨ Demo
 
-You can try it out live [here](#) *(Add your GitHub Pages or Netlify/Vercel deployment link)*
+You can try it out live 
 
 ## 📦 Installation
 
